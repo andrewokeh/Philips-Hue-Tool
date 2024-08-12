@@ -1,0 +1,2 @@
+requests>=2.32.3
+huesdk>=1.7
